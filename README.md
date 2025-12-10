@@ -27,7 +27,21 @@ This project demonstrates:
 
 ## 📁 Project Structure
 
-
+ann-cnn-model-suite/
+│
+├── data/ # Datasets (images or CSV)
+├── models/ # Saved .h5 or .pt models
+├── notebooks/ # Jupyter notebooks for training/testing
+├── src/
+│ ├── ann_model.py # ANN architecture
+│ ├── cnn_model.py # CNN architecture
+│ ├── train_ann.py # Training script for ANN
+│ ├── train_cnn.py # Training script for CNN
+│ ├── evaluate.py # Model evaluation utilities
+│ └── utils.py # Helper functions
+│
+├── requirements.txt
+└── README.md
 ---
 
 ## 🛠 Installation
