@@ -43,7 +43,7 @@ python src/train_cnn.py
 
 python src/evaluate.py
 
-📊 Technologies Used
+## 📊 Technologies Used
 
 Python
 
@@ -55,7 +55,7 @@ Pandas
 
 Matplotlib
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
  Add transfer learning (ResNet, MobileNet, VGG16)
 
