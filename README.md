@@ -43,29 +43,5 @@ python src/train_cnn.py
 
 python src/evaluate.py
 
-## 📊 Technologies Used
 
-Python
 
-TensorFlow / Keras
-
-NumPy
-
-Pandas
-
-Matplotlib
-
-## 🔮 Future Improvements
-
- Add transfer learning (ResNet, MobileNet, VGG16)
-
- Add hyperparameter tuning
-
- Add custom dataset loader
-
- Build a simple web interface for predictions
-
-🤝 Contributing
-
-Open to contributions!
-Feel free to submit issues or PRs.
